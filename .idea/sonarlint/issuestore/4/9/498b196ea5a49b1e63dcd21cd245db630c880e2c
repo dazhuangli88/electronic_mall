@@ -1,0 +1,31 @@
+
+E
+java:S3740""/Provide the parametrized type for this generic.(å¶Óİ
+E
+java:S3740#"/Provide the parametrized type for this generic.(ÚÁÜŞ
+J
+java:S3740="/Provide the parametrized type for this generic.(Ø°Ãúÿÿÿÿ
+J
+java:S3740A"/Provide the parametrized type for this generic.(‘¥„¢ùÿÿÿÿ
+J
+java:S3740U"/Provide the parametrized type for this generic.(”«²Ãşÿÿÿÿ
+F
+java:S3740Î"/Provide the parametrized type for this generic.(Òá
+L
+java:S1948+"1Make "categoryDaoImpl" transient or serializable.(ÄÛóóıÿÿÿÿ
+O
+java:S1948,"9Make "productInventoryDaoImpl" transient or serializable.(êæ°‡
+K
+java:S1948-"0Make "productDaoImpl" transient or serializable.(±º‰„ıÿÿÿÿ
+m
+java:S6204H"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ªçŸŠøÿÿÿÿ
+W
+java:S1612M"AReplace this lambda with method reference 'this::setProductName'.(ÜÂ˜¾
+a
+java:S1612y"FReplace this lambda with method reference 'this::productClickListing'.(ªªÅ«úÿÿÿÿ
+D
+java:S1172Š"(Remove this unused method parameter "e".(Òˆ«üÿÿÿÿ
+i
+java:S6204Ê"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+D
+java:S1172×"(Remove this unused method parameter "e".(¹¢ˆ™üÿÿÿÿ

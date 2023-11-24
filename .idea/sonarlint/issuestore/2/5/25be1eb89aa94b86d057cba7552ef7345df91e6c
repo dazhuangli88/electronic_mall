@@ -1,0 +1,19 @@
+
+L
+java:S3740/"/Provide the parametrized type for this generic.(Ô—²«8€œŠ‹1
+L
+java:S3740/"/Provide the parametrized type for this generic.(Ô—²«8€œŠ‹1
+K
+java:S3740@"/Provide the parametrized type for this generic.(Å³·{8œŠ‹1
+K
+java:S3740@"/Provide the parametrized type for this generic.(Å³·{8‚œŠ‹1
+v
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(é’ÉÑ8„œŠ‹1
+
+java:S1319/"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ô—²«8‹œŠ‹1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ª€§Ëşÿÿÿÿ8ÇœŠ‹1
+:
+java:S21191"Save and re-use this "Random".(¼İÅf8ÔœŠ‹1
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(á®§©8äœŠ‹1
+T	java:S106G"9Replace this use of System.out or System.err by a logger.(°•Ş8èœŠ‹1

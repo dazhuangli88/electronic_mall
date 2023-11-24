@@ -1,0 +1,15 @@
+
+`	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(˘‘Ëæ˘ˇˇˇˇ
+a	java:S112Ñ"FDefine and throw a dedicated exception instead of using a generic one.(˘‘Ëæ˘ˇˇˇˇ
+n
+java:S1450"SRemove the "type" field and declare it as a local variable in the relevant methods.(ñêÓÜ˚ˇˇˇˇ
+6
+java:S5164""Call "remove()" on "local".(Ü¬Ôä˛ˇˇˇˇ
+g
+java:S3776J"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÉÎG
+m
+java:S3776m"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(πó‘±˝ˇˇˇˇ
+C
+java:S1068"(Remove this unused "type" private field.(ñêÓÜ˚ˇˇˇˇ
+>
+java:S1068"(Remove this unused "size" private field.(ê√ò∑

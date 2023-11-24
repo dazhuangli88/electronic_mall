@@ -1,0 +1,7 @@
+
+L
+java:S1948"1Make "categoryDaoImpl" transient or serializable.(ÄÛóóýÿÿÿÿ
+T
+java:S16127">Replace this lambda with method reference 'this::addCategory'.(Šê°à
+C
+java:S1172@"(Remove this unused method parameter "e".(Œé³Êùÿÿÿÿ

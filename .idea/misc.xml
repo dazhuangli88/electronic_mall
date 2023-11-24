@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="JUnitGeneratorProjectSettings">
+    <option name="outputFilePattern" value="${SOURCEPATH}/test/java/${PACKAGE}/${FILENAME}" />
+    <option name="selectedTemplateKey" value="JUnit 4" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="com.itcodebox.notebooks.projectservice.ProjectUIState">
+    <option name="selectedNotebookId" value="3" />
+    <option name="selectedChapterId" value="10" />
+    <option name="selectedNoteId" value="20" />
+  </component>
+</project>

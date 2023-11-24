@@ -1,0 +1,21 @@
+
+k
+java:S1104"UMake SINGLETON a static final constant or non-public and provide accessors if needed.(Å…û±
+o
+java:S1104"TMake MULTITON a static final constant or non-public and provide accessors if needed.(º«˜óüÿÿÿÿ
+k
+java:S1104"PMake SIZE a static final constant or non-public and provide accessors if needed.(¹ù½Íüÿÿÿÿ
+E
+java:S1444"/Make this "public static SINGLETON" field final(Å…û±
+I
+java:S1444".Make this "public static MULTITON" field final(º«˜óüÿÿÿÿ
+E
+java:S1444"*Make this "public static SIZE" field final(¹ù½Íüÿÿÿÿ
+j
+java:S3008"TRename this field "SINGLETON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å…û±
+n
+java:S3008"SRename this field "MULTITON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º«˜óüÿÿÿÿ
+j
+java:S3008"ORename this field "SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ù½Íüÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÐÇàªúÿÿÿÿ
